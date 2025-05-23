@@ -10,13 +10,13 @@ export const projects: Project[] = [
     title: "Solar system simulation",
     year: 2025,
     description: "Babylon.js + Vue.js project",
-    url: "https://github.com/bydoodle/checkersaboba",
+    url: "https://bydoodle.github.io/solar-system/",
   },
   {
     title: "Win95 games [under development]",
     year: 2025,
     description: "Javascript project",
-    url: "https://github.com/bydoodle/checkersaboba",
+    url: "https://bydoodle.github.io/webgames/",
   },
   {
     title: "Shadows of the mansion",
