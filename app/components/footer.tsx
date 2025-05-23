@@ -2,7 +2,7 @@
 
 import React from "react";
 import {
-  FaXTwitter,
+  FaArtstation,
   FaGithub,
   FaInstagram,
   FaRss,
@@ -24,7 +24,7 @@ function SocialLink({ href, icon: Icon }) {
 function SocialLinks() {
   return (
     <div className="flex text-lg gap-3.5 float-right transition-opacity duration-300 hover:opacity-90">
-      <SocialLink href={socialLinks.twitter} icon={FaXTwitter} />
+      <SocialLink href={socialLinks.artstation} icon={FaArtstation} />
       <SocialLink href={socialLinks.github} icon={FaGithub} />
       <SocialLink href={socialLinks.instagram} icon={FaInstagram} />
       <SocialLink href={socialLinks.linkedin} icon={FaLinkedinIn} />
@@ -42,7 +42,7 @@ export default function Footer() {
       <time>© {YEAR}</time>{" "}
       <a
         className="no-underline"
-        href={socialLinks.twitter}
+        href={socialLinks.artstation}
         target="_blank"
         rel="noopener noreferrer"
       >

@@ -7,15 +7,33 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Mithril AI",
-    year: 2024,
-    description: "Open science AI resarch lab",
-    url: "https://github.com/mithrilai",
+    title: "Solar system simulation",
+    year: 2025,
+    description: "Babylon.js + Vue.js project",
+    url: "https://github.com/bydoodle/checkersaboba",
   },
   {
-    title: "OpenDeepLearning",
+    title: "Win95 games [under development]",
+    year: 2025,
+    description: "Javascript project",
+    url: "https://github.com/bydoodle/checkersaboba",
+  },
+  {
+    title: "Shadows of the mansion",
+    year: 2025,
+    description: "Unity horror game",
+    url: "https://fr03y.itch.io/shadows-of-the-mansion",
+  },
+  {
+    title: "No sleeping for you",
     year: 2023,
-    description: "Open source AI education resources",
-    url: "https://opendeeplearning.xyz/",
+    description: "Godot 'Game Jam' game",
+    url: "https://github.com/wovri-github/nosleepingforyou",
+  },
+  {
+    title: "Checkers multiplayer game",
+    year: 2024,
+    description: "Unity checkers game",
+    url: "https://github.com/bydoodle/checkersaboba",
   },
 ];
