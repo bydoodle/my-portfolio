@@ -20,13 +20,16 @@ export default function Page() {
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          Greetings! My name is Viktor, and I am an IT engineer with a passion for developing web applications and exploring emerging technologies. My expertise includes HTML, CSS, and JavaScript, and I am currently delving into frameworks such as React and Next.js to create engaging and responsive projects.
+          Greetings! My name is Viktor, I'm an IT engineer with a passion for developing web applications and learning new technologies. My experience includes HTML, CSS, and JavaScript, and I'm currently delving into frameworks like React and Next.js to create interesting and responsive projects.
         </p>
         <p>
-          In addition to my technical skills, I have a creative inclination; I design 3D models using Blender, utilize Figma for design purposes, and possess foundational knowledge of Photoshop. For version control, I employ Git, and I thrive in collaborative environments where I can exchange ideas and learn from my peers.
+          I also have experience in creating games on Unity and have a basic knowledge of C#. 
         </p>
         <p>
-          Recently, I have been investigating Python and undertaking personal projects to enhance my skills and advance my career as a developer. I maintain a strong sense of curiosity, a commitment to continuous learning, and a readiness to embrace new challenges!
+          In addition to technical skills, I have creative inclinations; I develop 3D models using Blender and am proficient in Photoshop.
+        </p>
+        <p>
+          Recently, I've been working on personal projects to improve my skills and advance my career as a developer. I maintain a strong sense of curiosity, a commitment to continuous learning, and a willingness to take on new challenges!
         </p>
       </div>
     </section>
