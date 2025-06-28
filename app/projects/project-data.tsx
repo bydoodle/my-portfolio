@@ -36,4 +36,10 @@ export const projects: Project[] = [
     description: "Unity checkers game",
     url: "https://github.com/bydoodle/checkersaboba",
   },
+  {
+    title: "VStars! website",
+    year: 2025,
+    description: "Clear JS website",
+    url: "https://https://vstars-project.com/",
+  },
 ];
