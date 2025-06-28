@@ -37,7 +37,7 @@ export const projects: Project[] = [
     url: "https://github.com/bydoodle/checkersaboba",
   },
   {
-    title: "VStars! website",
+    title: "VStars! website [under development]",
     year: 2025,
     description: "Clear JS website",
     url: "https://https://vstars-project.com/",
