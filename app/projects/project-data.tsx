@@ -40,6 +40,6 @@ export const projects: Project[] = [
     title: "VStars! website [under development]",
     year: 2025,
     description: "Clear JS website",
-    url: "https://https://vstars-project.com/",
+    url: "vstars-project.com",
   },
 ];
